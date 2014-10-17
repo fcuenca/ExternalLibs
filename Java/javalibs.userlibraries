@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="Cucumber" systemlibrary="false">
+        <archive javadoc="jar:file:/Users/fernando/Dev/ExternalLibs/Java/cucumber/v1.1.1/cucumber-junit-1.1.1-javadoc.jar!/" path="/Users/fernando/Dev/ExternalLibs/Java/cucumber/v1.1.1/cucumber-junit-1.1.1.jar"/>
+        <archive javadoc="jar:file:/Users/fernando/Dev/ExternalLibs/Java/cucumber/v1.1.1/cucumber-java-1.1.1-javadoc.jar!/" path="/Users/fernando/Dev/ExternalLibs/Java/cucumber/v1.1.1/cucumber-java-1.1.1.jar"/>
+        <archive javadoc="jar:file:/Users/fernando/Dev/ExternalLibs/Java/cucumber/v1.1.1/cucumber-core-1.1.1-javadoc.jar!/" path="/Users/fernando/Dev/ExternalLibs/Java/cucumber/v1.1.1/cucumber-core-1.1.1.jar"/>
+    </library>
+    <library name="FEST-Swing" systemlibrary="false">
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/fest-swing/v1.2/lib/fest-assert-1.2.jar"/>
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/fest-swing/v1.2/lib/fest-reflect-1.2.jar"/>
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/fest-swing/v1.2/lib/fest-util-1.1.2.jar"/>
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/fest-swing/v1.2/fest-swing-1.2.jar"/>
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/fest-swing/v1.2/extensions/junit/fest-swing-junit-1.2/fest-swing-junit-1.2.jar"/>
+    </library>
+    <library name="Harmcrest" systemlibrary="false">
+        <archive javadoc="jar:file:/Users/fernando/Dev/ExternalLibs/Java/hamcrest/v1.3/hamcrest-all-1.3-javadoc.jar!/" path="/Users/fernando/Dev/ExternalLibs/Java/hamcrest/v1.3/hamcrest-all-1.3.jar"/>
+    </library>
+    <library name="Joda-time" systemlibrary="false">
+        <archive javadoc="jar:file:/Users/fernando/Dev/ExternalLibs/Java/joda-time/v2.3/joda-time-2.3-javadoc.jar!/" path="/Users/fernando/Dev/ExternalLibs/Java/joda-time/v2.3/joda-time-2.3.jar" source="/Users/fernando/Dev/ExternalLibs/Java/joda-time/v2.3/joda-time-2.3-sources.jar"/>
+    </library>
+    <library name="Mockito" systemlibrary="false">
+        <archive javadoc="file:/Users/fernando/Dev/ExternalLibs/Java/mockito/v1.9.5/javadoc/" path="/Users/fernando/Dev/ExternalLibs/Java/mockito/v1.9.5/mockito-all-1.9.5.jar" source="/Users/fernando/Dev/ExternalLibs/Java/mockito/v1.9.5/sources"/>
+    </library>
+    <library name="OrientDB" systemlibrary="false">
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/orientdb/v1.4.1/lib/orientdb-core-1.4.1.jar"/>
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/orientdb/v1.4.1/lib/orientdb-object-1.4.1.jar"/>
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/orientdb/v1.4.1/lib/orientdb-server-1.4.1.jar"/>
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/orientdb/v1.4.1/lib/orient-commons-1.4.1.jar"/>
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/orientdb/v1.4.1/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+        <archive path="/Users/fernando/Dev/ExternalLibs/Java/orientdb/v1.4.1/lib/javassist.jar"/>
+    </library>
+    <library name="SuperCSV" systemlibrary="false">
+        <archive javadoc="jar:file:/Users/fernando/Dev/ExternalLibs/Java/supercsv/v2.1.0/super-csv/super-csv-2.1.0-javadoc.jar!/" path="/Users/fernando/Dev/ExternalLibs/Java/supercsv/v2.1.0/super-csv/super-csv-2.1.0.jar" source="/Users/fernando/Dev/ExternalLibs/Java/supercsv/v2.1.0/super-csv/super-csv-2.1.0-sources.jar"/>
+    </library>
+    <library name="SwingX" systemlibrary="false">
+        <archive javadoc="jar:file:/Users/fernando/Dev/ExternalLibs/Java/swingx/v1.6.4/swingx-all-1.6.4-javadoc.jar!/" path="/Users/fernando/Dev/ExternalLibs/Java/swingx/v1.6.4/swingx-all-1.6.4.jar" source="/Users/fernando/Dev/ExternalLibs/Java/swingx/v1.6.4/swingx-all-1.6.4-sources.jar"/>
+    </library>
+</eclipse-userlibraries>
